@@ -1,0 +1,10 @@
+vuepress:
+  title: "Книги по политической экономии"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
+  - content
