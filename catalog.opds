@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Книги по политической экономии</title>
+  <entry>
+    <title>Общая теория права и марксизм</title>
+    <updated>2026-09-06T10:54:47.356Z</updated>
+    <link href="files/pashukanis-obshchaya-teoriya-prava-i-marksizm.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Евгений Пашуканис</name>
+    </author>
+  </entry>
+</feed>
